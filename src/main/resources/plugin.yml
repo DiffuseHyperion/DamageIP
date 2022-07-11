@@ -1,0 +1,5 @@
+name: DamageIP
+version: '${project.version}'
+main: tk.yjservers.damageip.DamageIP
+api-version: 1.19
+description: Don't trip!
